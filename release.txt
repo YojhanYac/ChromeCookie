@@ -1,0 +1,22 @@
+Función activar/desactivar plugin por medio de un checkbox
+	Función de guardar el estado del checkbox en que se dejó activado/desactivado
+Función deshabilitarse en las páginas que no pueda realizar su función
+	El checkbox se deshabilita
+
+Qué se puede mejorar?
+La interfaz de usuario
+	Agregar mensajes al activar/desactivar plugin con una notificación/label
+Agregar opciones de personalización
+	Activar y desactivar el ENTER automático y que solo agregue la fecha
+	Cambiar el mensaje que necesita automatizar, por ejemplo agregarle un dato fijo antes/después de la hora
+
+Requisitos para funcionamiento
+	Tener habilitadas las cookies
+	Tener habilitado javascript
+	Acceder a la página que fue definida para ejecutar el script
+
+Limitaciones
+No se puede agregar la fecha dentro del texto ya escrito, ya que solo agrega el mismo al final de todo lo escrito
+Solo se podrá utilizar en aquel id configurado dentro del script
+
+Documentación Google: https://developer.chrome.com/docs/extensions/mv3/getstarted/

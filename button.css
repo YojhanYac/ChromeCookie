@@ -1,0 +1,11 @@
+body {
+    background-color: #35363a!important;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+.form-check-input:checked {
+    background-color: #198754!important;
+    border-color: #198754!important;
+}

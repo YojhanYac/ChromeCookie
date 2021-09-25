@@ -1,0 +1,16 @@
+{
+    "name": "SuppSMO Tool",
+    "description": "Activa y usa la tecla SHIFT para agregar en el textarea de la bitacora un ENTER y la HORA actual",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["storage", "activeTab", "scripting", "cookies"],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+      "16": "/images/ml4.png",
+      "32": "/images/ml4.png",
+      "48": "/images/ml4.png",
+      "128": "/images/ml4.png"
+    }
+}
